@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Li</first_name>
+	<last_name>Jincheng</last_name>
+	<phone_number>9779</phone_number>
+	<notes>asdf</notes>
+</contact>
+<contact>
+	<first_name>Bob</first_name>
+	<last_name>Bob</last_name>
+	<phone_number>12344</phone_number>
+	<notes>some notes</notes>
+</contact>
+<contact>
+	<first_name>AAron</first_name>
+	<last_name>Wels</last_name>
+	<phone_number>124545</phone_number>
+	<notes>lasjdflksdjf</notes>
+</contact>
+</contacts>
